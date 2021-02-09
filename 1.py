@@ -232,5 +232,7 @@ for key in d:
     print(key, ':', d[key], ' ', end=' ', sep='')
 print()
 
+input()
+
 
 # 1.py
