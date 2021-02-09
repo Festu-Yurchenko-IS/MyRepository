@@ -232,6 +232,7 @@ for key in d:
     print(key, ':', d[key], ' ', end=' ', sep='')
 print()
 
+print("Программа завершена. Нажмите <ввод>", end=' ')
 input()
 
 
